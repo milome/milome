@@ -76,10 +76,25 @@ My core interests are **AI-driven agile development**, **specification-driven de
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=milome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&icon_color=00f0ff&text_color=dbeafe" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&text_color=dbeafe" />
-<img height="170" src="https://github-readme-streak-stats.vercel.app/?user=milome&theme=tokyonight&hide_border=true&background=0B1020&ring=00F0FF&fire=8B5CF6&currStreakLabel=00F0FF" />
+```txt
+┌────────────────────────────── SYSTEM TELEMETRY ──────────────────────────────┐
+│ profile        : milome                                                     │
+│ mode           : online                                                     │
+│ domains        : AI engineering / spec-driven automation / quant systems    │
+│ repositories   : public projects visible on profile                         │
+│ contribution   : live snake graph enabled below                             │
+│ note           : external stat-card services are temporarily unstable       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
+</div>
+
+> Live GitHub stat cards are temporarily removed because the upstream image services returned `503/404` during verification. The README now uses a stable fallback section while keeping the contribution snake active.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=milome&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/milome?style=for-the-badge&color=0b1020&labelColor=0b1020&logo=github&logoColor=00f0ff&label=Followers" />
+  <img src="https://img.shields.io/github/stars/milome/milome.github.io?style=for-the-badge&color=0b1020&labelColor=0b1020&logo=github&logoColor=00f0ff&label=Blog%20Stars" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,30&height=3&section=header" />
@@ -96,15 +111,138 @@ My core interests are **AI-driven agile development**, **specification-driven de
 
 ## Featured Projects
 
+### Quant
+
 <div align="center">
 
-| Project | Description | Link |
-|---|---|---|
-| **milome.github.io** | Personal tech blog and public writing space | [Open](https://github.com/milome/milome.github.io) |
-| **vnpy_ctp** | VeighNa framework CTP trading interface | [Open](https://github.com/milome/vnpy_ctp) |
-| **vnpy** | Open-source quantitative trading platform framework based on Python | [Open](https://github.com/milome/vnpy) |
-| **ai-hedge-fund** | AI-driven hedge fund team experiment | [Open](https://github.com/milome/ai-hedge-fund) |
-| **IOT_Test** | Early IoT demo project repository | [Open](https://github.com/milome/IOT_Test) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Quant](https://img.shields.io/badge/QUANT-00f0ff?style=for-the-badge&labelColor=0b1020)
+
+### `vnpy_ctp`
+
+**VeighNa framework CTP trading interface**
+
+[Repository](https://github.com/milome/vnpy_ctp)
+
+![Stars](https://img.shields.io/github/stars/milome/vnpy_ctp?style=flat-square&color=00f0ff&labelColor=0b1020&logo=github)
+![Language](https://img.shields.io/github/languages/top/milome/vnpy_ctp?style=flat-square&color=7c3aed&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-public-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`Quant` `CTP` `Trading`
+
+</td>
+<td width="50%" valign="top">
+
+![Quant](https://img.shields.io/badge/QUANT-00f0ff?style=for-the-badge&labelColor=0b1020)
+
+### `vnpy`
+
+**Open-source quantitative trading platform framework based on Python**
+
+[Repository](https://github.com/milome/vnpy)
+
+![Stars](https://img.shields.io/github/stars/milome/vnpy?style=flat-square&color=00f0ff&labelColor=0b1020&logo=github)
+![Language](https://img.shields.io/github/languages/top/milome/vnpy?style=flat-square&color=7c3aed&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-public-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`Python` `Quant Platform` `Open Source`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### AI
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![AI](https://img.shields.io/badge/AI-8b5cf6?style=for-the-badge&labelColor=0b1020)
+
+### `ai-hedge-fund`
+
+**AI-driven hedge fund team experiment**
+
+[Repository](https://github.com/milome/ai-hedge-fund)
+
+![Stars](https://img.shields.io/github/stars/milome/ai-hedge-fund?style=flat-square&color=00f0ff&labelColor=0b1020&logo=github)
+![Language](https://img.shields.io/github/languages/top/milome/ai-hedge-fund?style=flat-square&color=7c3aed&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-public-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`AI` `Finance` `Experiment`
+
+</td>
+<td width="50%" valign="top">
+
+![DISCOVERY](https://img.shields.io/badge/DISCOVERY-22c55e?style=for-the-badge&labelColor=0b1020)
+
+### `signal.node`
+
+**More repositories are available on the profile for deeper exploration.**
+
+[Explore All Repos](https://github.com/milome?tab=repositories)
+
+![Profile](https://img.shields.io/badge/profile-active-00f0ff?style=flat-square&labelColor=0b1020)
+![Category](https://img.shields.io/badge/category-repository%20discovery-7c3aed?style=flat-square&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-live-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`GitHub` `Archive` `Discovery`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### Blog
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![BLOG](https://img.shields.io/badge/BLOG-f59e0b?style=for-the-badge&labelColor=0b1020)
+
+### `milome.github.io`
+
+**Personal tech blog and public writing space**
+
+[Repository](https://github.com/milome/milome.github.io)
+
+![Stars](https://img.shields.io/github/stars/milome/milome.github.io?style=flat-square&color=00f0ff&labelColor=0b1020&logo=github)
+![Language](https://img.shields.io/github/languages/top/milome/milome.github.io?style=flat-square&color=7c3aed&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-public-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`Blog` `Static Site` `Tech Writing`
+
+</td>
+<td width="50%" valign="top">
+
+![LEGACY](https://img.shields.io/badge/LEGACY-ef4444?style=for-the-badge&labelColor=0b1020)
+
+### `IOT_Test`
+
+**Early IoT demo project repository**
+
+[Repository](https://github.com/milome/IOT_Test)
+
+![Stars](https://img.shields.io/github/stars/milome/IOT_Test?style=flat-square&color=00f0ff&labelColor=0b1020&logo=github)
+![Language](https://img.shields.io/github/languages/top/milome/IOT_Test?style=flat-square&color=7c3aed&labelColor=0b1020)
+![Status](https://img.shields.io/badge/status-public-0ea5e9?style=flat-square&labelColor=0b1020)
+
+`IoT` `Demo` `Legacy`
+
+</td>
+</tr>
+</table>
 
 </div>
 
