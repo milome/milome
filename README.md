@@ -25,15 +25,15 @@
 > `SYSTEM:// identity.signal`
 
 ```txt
-┌──────────────────────────────────────────────────────────────── PROFILE SIGNAL ──────────────────────────────────────────────────────────────────┐
-│ identity   :: milome                                                                                                                             │
-│ status     :: online                                                                                                                             │
-│ role       :: AI Engineering Practitioner                                                                                                        │
-│ stack      :: Full-Stack Developer                                                                                                               │
-│ location   :: China                                                                                                                              │
-│ principle  :: Spec first. Automate deeply. Build for reality                                                                                     │
-│ trajectory :: AI-native engineering / quant systems / automation                                                                                 │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────── PROFILE SIGNAL ────────────────────────────────────────────────────────┐
+│ identity   :: milome                                                                                                         │
+│ status     :: online                                                                                                         │
+│ role       :: AI Engineering Practitioner                                                                                    │
+│ stack      :: Full-Stack Developer                                                                                           │
+│ location   :: China                                                                                                          │
+│ principle  :: Spec first. Automate deeply. Build for reality                                                                 │
+│ trajectory :: AI-native engineering / quant systems / automation                                                             │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 I’m passionate about turning **AI technology into real engineering delivery**.
