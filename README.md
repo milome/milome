@@ -22,6 +22,8 @@
 
 ## About Me
 
+> `SYSTEM:// identity.signal`
+
 ```txt
 > Booting profile: milome
 > Status       : Online
@@ -64,6 +66,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 
 ## GitHub Trophies
 
+> `SYSTEM:// achievement.layer`
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=milome&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" />
@@ -73,6 +77,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=header" />
 
 ## GitHub Stats
+
+> `SYSTEM:// fallback.telemetry`
 
 <div align="center">
 
@@ -101,6 +107,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 
 ## Contribution Matrix
 
+> `SYSTEM:// live.activity.trace`
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/milome/milome/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -110,6 +118,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=header" />
 
 ## Featured Projects
+
+> `SYSTEM:// neon.project.grid`
 
 ### Quant
 
@@ -282,6 +292,13 @@ mindset:
 [ AI Engineering ]──[ Spec-Driven Delivery ]──[ Workflow Automation ]──[ Quant Systems ]
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/runtime-AI%20native-00f0ff?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/protocol-spec%20driven-7c3aed?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/pipeline-automation-0ea5e9?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/system-real--time%20quant-f59e0b?style=for-the-badge&labelColor=0b1020" />
 </div>
 
 ---
