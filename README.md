@@ -54,8 +54,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 > `SYSTEM:// live.stat.cards`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api?username=milome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&icon_color=00f0ff&text_color=dbeafe&cache_seconds=1801&count_private=true" />
-  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api/top-langs?username=milome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&text_color=dbeafe&cache_seconds=1801&count_private=true" />
+  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api?username=milome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&icon_color=00f0ff&text_color=dbeafe&cache_seconds=1802&count_private=true" />
+  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api/top-langs?username=milome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&text_color=dbeafe&cache_seconds=1802&count_private=true" />
 </div>
 
 <div align="center">
