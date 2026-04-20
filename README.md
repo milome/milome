@@ -54,8 +54,8 @@ My core interests are **AI-driven agile development**, **specification-driven de
 > `SYSTEM:// live.stat.cards`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api?username=milome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&icon_color=00f0ff&text_color=dbeafe&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api/top-langs?username=milome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&text_color=dbeafe" />
+  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api?username=milome&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&icon_color=00f0ff&text_color=dbeafe&cache_seconds=1801&count_private=true" />
+  <img height="170" src="https://github-readme-stats-swart-beta-43.vercel.app/api/top-langs?username=milome&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f0ff&text_color=dbeafe&cache_seconds=1801&count_private=true" />
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@ My core interests are **AI-driven agile development**, **specification-driven de
 
 <div align="center">
 
-> `NOTE:// current stat cards only reflect public repositories. private repositories are not included in the current metrics.`
+> `NOTE:// stat cards now include both public and private repositories.`
 
 </div>
 
